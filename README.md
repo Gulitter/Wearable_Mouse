@@ -1,5 +1,6 @@
 # Wearable_Mouse
 2022년 5인 프로젝트(IMU를 통한 마우스 제어)
+
 <img width="215" height="125" alt="image" src="https://github.com/user-attachments/assets/bb9492e0-8d29-4688-bfb0-0565d49c51f5" />
 
 # 부품
